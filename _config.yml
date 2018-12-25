@@ -1,0 +1,32 @@
+# Permalinks
+permalink: pretty
+
+# Setup
+title: Caleb Ling
+tagline: Management Information Systems Student at Baylor
+url: https://calebling.com
+paginate: 1
+baseurl: ''
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# About/contact
+author:
+  name: Caleb Ling
+  url: http://github.com/calebling
+  email: calebkkling@gmail.com
+
+# Custom vars
+version: 2.0.1
+github:
+  repo: https://github.com/calebling/calebling
+
+# Gems
+plugins:
+  # - jekyll-paginate
+  # - jekyll-gist

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Caleb Ling</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2018-12-24T18:19:49-06:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Caleb Ling</name>
+   <email>calebkkling@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Projects</title>
+   <link href="http://localhost:4000/2018/12/24/projects/"/>
+   <updated>2018-12-24T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2018/12/24/projects</id>
+   <content type="html">&lt;h3 id=&quot;fortnite-scraper&quot;&gt;Fortnite Scraper&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/calebling/webApp&quot;&gt;Fortnite Scraper&lt;/a&gt; is a personal hobby
+project that I built using JavaScript, HTML, CSS, and D3. This web app scrapes
+for Fortnite player data from &lt;a href=&quot;https://fortnitetracker.com/&quot;&gt;Fortnite Tracker&lt;/a&gt;
+to allow for player performance comparisons.&lt;/p&gt;
+
+&lt;h3 id=&quot;another-school-project&quot;&gt;Another School Project&lt;/h3&gt;
+
+&lt;p&gt;Project description here&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
